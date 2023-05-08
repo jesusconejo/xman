@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.periferiag</groupId>
-    <artifactId>xman</artifactId>
-    <version>1</version>
-    <packaging>war</packaging>
+    <artifactId>xman-1</artifactId>
+
+    <packaging>jar</packaging>
     <name>xman</name>
     <description>xman</description>
     <properties>
