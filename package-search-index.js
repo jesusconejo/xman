@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.periferiag.xman"},{"l":"com.periferiag.xman.config"},{"l":"com.periferiag.xman.controller"},{"l":"com.periferiag.xman.dto"},{"l":"com.periferiag.xman.persistence.entity"},{"l":"com.periferiag.xman.service"}];updateSearchResults();
